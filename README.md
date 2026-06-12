@@ -64,7 +64,7 @@ See the screenshots folder.
 
 ![cdk-synth](Screenshots/04-cdk-synth.png)
 
-![cdk-deploy-success](Screenshot/05-cdk-deploy-success.png)
+![cdk-deploy-success](Screenshots/05-cdk-deploy-success.png)
 
 ![cloudformation-stack](Screenshots/06-cloudformation-stack.png)
 
