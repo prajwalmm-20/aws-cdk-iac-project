@@ -56,23 +56,23 @@ See the screenshots folder.
 - Cloud Resource Management
 
 # Screenshots
-![01-project-structure](<Screenshot 2026-06-12 124537.png>)
+![project-structure](<Screenshot/01-project-structure.png>)
 
-![02-cdk-code](<Screenshot 2026-06-12 124552.png>)
+![cdk-code](<Screenshot/02-cdk-code.png>)
 
-![03-aws-authentication](<Screenshot 2026-06-12 124904.png>)
+![aws-authentication](<Screenshot/03-aws-authentication.png>)
 
-![04-cdk-synth](<Screenshot 2026-06-12 124634.png>)
+![cdk-synth](<Screenshot/04-cdk-synth.png>)
 
-![05-cdk-deploy-success](<Screenshot 2026-06-12 124648.png>)
+![cdk-deploy-success](<Screenshot/05-cdk-deploy-success.png>)
 
-![06-cloudformation-stack](<Screenshot 2026-06-12 123131.png>)
+![cloudformation-stack](<Screenshot/06-cloudformation-stack.png>)
 
-![07-cloudformation-resources](<Screenshot 2026-06-12 125113-1.png>)
+![cloudformation-resources](<Screenshot/07-cloudformation-resources.png>)
 
-![08-s3-bucket](<Screenshot 2026-06-12 125203.png>)
+![s3-bucket](<Screenshot/08-s3-bucket.png>)
 
-![09-bucket-upload-test](<Screenshot 2026-06-12 124824.png>)
+![bucket-upload-test](<Screenshot/09-bucket-upload-test.png>)
 
 ## Project Summary
 
